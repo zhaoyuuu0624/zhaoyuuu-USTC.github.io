@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Zhao Yu"
 description              : &description "personal description"
 url                      : https://zhaoyuuu0624.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/zhaoyuuu-USTC.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "zhaoyuuu0624/zhaoyuuu-USTC.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "zhaoyuuu0624/zhaoyuuu0624.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
