@@ -89,4 +89,4 @@ Competition
 CV
 ======
 
-[My CV](../files/CV_Zhaoyu.pdf)
+[My CV]({{ '/files/CV_Zhaoyu.pdf' | relative_url }})
